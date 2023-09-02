@@ -1,0 +1,39 @@
+*{
+    background-color: #eee;
+}
+
+.box-rounded{
+    height: 74px;
+}
+
+.box-6{
+    height: 356px;
+}
+
+.box-7{
+    height: 167px;
+}
+
+.box-8{
+    height: 300px;
+}
+
+.green{
+    background: #01CA84;
+    grid-column: 1 / 3;
+}
+
+.blue{
+    background: #00A8FB;
+    grid-column: 3 / 5;
+}
+
+.pink{
+    background: #FF416C;
+    grid-column: 5 / 7;
+}
+
+.orange{
+    background: #FF9A00;
+    grid-column: 7 / 9;
+}

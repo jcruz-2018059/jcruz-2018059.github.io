@@ -1,0 +1,36 @@
+.content{
+    height: 100%;
+    background: #F4F2FF;
+}
+
+.dashboard{
+    width: 18%;
+    background: linear-gradient(#BB79FF, #6D98FF,#BB79FF );
+}
+
+.sidebar{
+    height: 867px;
+    margin-left: 20px;
+}
+
+.box-1{
+    height: 200px;
+    background: linear-gradient(to left, #BB79FF, #9B85FF,#6899FF );
+    margin-right: 20px;
+}
+
+.box-2{
+    height: 409px;
+}
+
+.box-3{
+    height: 200px;
+}
+
+.box-4{
+    height: 330px;
+}
+
+.box-5{
+    height: 280px;
+}
